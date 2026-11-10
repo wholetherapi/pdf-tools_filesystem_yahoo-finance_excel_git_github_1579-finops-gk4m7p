@@ -6,15 +6,14 @@ Next claim sequence: CLM-7313.
 
 ## Pending Reimbursements
 
-- CLM-7301 · Tamas Varga · Nordvent Airways · EUR 658.50 · EXP-2601_varga.pdf
 - CLM-7302 · Priya Raman · Mistral Horizon · EUR 812.00 · EXP-7322_raman.pdf
 - CLM-7303 · Samuel Osei · Alpenglow Air · USD 1,140.00 · EXP-7345_osei.pdf
 - CLM-7304 · Dana Whitlock · Cobalt Ridge · GBP 620.30 · EXP-7350_whitlock.pdf
-- CLM-7306 · Emeka Okafor · Cobalt Ridge · GBP 495.20 · EXP-2603_okafor.pdf
 - CLM-7307 · Hana Sato · Nordvent Airways · USD 540.00 · EXP-7361_sato.pdf
 - CLM-7308 · Ravi Menon · Alpenglow Air · EUR 930.00 · EXP-7368_menon.pdf
 - CLM-7309 · Luca Ferrari · Skyline Atlantic · EUR 1,250.00 · EXP-7374_ferrari.pdf
 - CLM-7310 · Ana Duarte · Mistral Horizon · USD 305.50 · EXP-7380_duarte.pdf
+- CLM-7314 · Mira Lindqvist · Mistral Horizon · EUR 1368.00 · EXP-2604_lindqvist.pdf · hold for manager review - CNY 10189.48
 
 ## Approved Reimbursements
 
@@ -23,6 +22,10 @@ Next claim sequence: CLM-7313.
 - CLM-7287 · 2026-07-03 · Fatima Zahra · Cobalt Ridge · CNY 5,301.75
 - CLM-7290 · 2026-07-21 · Owen Pryce · Nordvent Airways · CNY 3,988.20
 - CLM-7295 · 2026-08-09 · Nadia Petrova · Mistral Horizon · CNY 7,120.60
+- CLM-7301 · 2025-12-29 · Tamas Varga · Nordvent Airways · CNY 5447.84
+- CLM-7313 · 2026-10-14 · Grace Hollis · Alpenglow Air · CNY 5229.13
+- CLM-7306 · 2026-09-24 · Emeka Okafor · Cobalt Ridge · CNY 4399.68
+- CLM-7315 · 2026-11-02 · Jules Baptiste · Nordvent Airways · CNY 1729.20
 
 ## Reimbursement Policy
 
